@@ -1,3 +1,4 @@
 import beer
+import myScript2
 
-beer
+myScript2 1 2 3
